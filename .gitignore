@@ -1,0 +1,3 @@
+# Vagrant configuration file
+.vagrant
+env.yaml
